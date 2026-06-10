@@ -2481,8 +2481,8 @@ export default function App() {
                       type="email"
                       value={adminEmailInput}
                       onChange={(e) => setAdminEmailInput(e.target.value)}
-                      placeholder="alisaifaldeen12@gmail.com"
-                      className="w-full bg-[#111f33] border border-[#1e3050] text-[#ffcf33] placeholder-gray-700 text-xs font-mono p-3 rounded-xl focus:border-[#d4a843] focus:border-opacity-80 outline-none transition-all text-left"
+                      placeholder="name@refinery.iq"
+                      className="w-full bg-[#111f33] border border-[#1e3050] text-[#ffcf33] placeholder-gray-600/50 text-xs font-mono p-3 rounded-xl focus:border-[#d4a843] focus:border-opacity-80 outline-none transition-all text-left"
                       style={{ direction: 'ltr' }}
                       onKeyDown={(e) => {
                         if (e.key === "Enter") handleVerifyAdminEmail();
