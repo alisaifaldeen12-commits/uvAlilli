@@ -1,0 +1,6 @@
+{
+  "name": "UV-Vis Virtual Lab",
+  "description": "مختبر الطيف الافتراضي UV-Vis وعلاقة Beer-Lambert وحساب التراكيز وتخفيف المحاليل لمهندسي البصرة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

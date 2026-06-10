@@ -1,0 +1,33 @@
+{
+  "name": "مختبر UV-Vis الافتراضي",
+  "short_name": "مختبر UV-Vis",
+  "description": "محاكاة قياس التراكيز و Beer-Lambert وقوانين الضوء الكيميائية لمهندسي البصرة",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070e1a",
+  "theme_color": "#070e1a",
+  "orientation": "portrait-primary",
+  "dir": "rtl",
+  "lang": "ar",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-svg.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
